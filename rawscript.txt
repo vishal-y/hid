@@ -1,4 +1,4 @@
-DELAY 500
+CTRL l
 STRING https://vishal-y.github.io/auto-download/1.apk
 DELAY 2000
 F10
